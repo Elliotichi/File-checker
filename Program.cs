@@ -10,7 +10,7 @@ public class Program
         // Checks if there is a commandline argument.
         if (args.Length == 0)
         {
-            Console.WriteLine("Error: program needs a filepath to run");
+            Console.WriteLine("Error: Program Needs a Filepath To Run");
             loop = false;
         }
 
@@ -22,12 +22,12 @@ public class Program
         {
             Console.WriteLine("=======================");
             Console.WriteLine("Please input an option:");
-            Console.WriteLine("[1] run");
+            Console.WriteLine("[1] Run");
             Console.WriteLine("[2] Toggle Case Sensitivity (Default on)");
             Console.WriteLine("[3] Exit Program");
             Console.WriteLine("=======================");
 
-            Console.Write("option: ");
+            Console.Write("Option: ");
             string option = Console.ReadLine();
 
             switch (option)
@@ -43,12 +43,12 @@ public class Program
                     if (caseSensitive == true)
                     {
                         caseSensitive = false;
-                        Console.WriteLine("toggled case sensitivity to: off");
+                        Console.WriteLine("Toggled Case Densitivity Do: Off");
                     }
                     else
                     {
                         caseSensitive = true;
-                        Console.WriteLine("toggled case sensitivity to: on");
+                        Console.WriteLine("Toggled Case Sensitivity To: On");
                     }
 
                     break;
@@ -58,7 +58,7 @@ public class Program
                     break;
 
                 default:
-                    Console.WriteLine("invalid option");
+                    Console.WriteLine("Invalid Option");
                     break;
             }
         }
