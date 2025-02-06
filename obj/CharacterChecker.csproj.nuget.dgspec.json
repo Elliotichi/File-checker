@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elliot\\Documents\\C# Projects\\SWORD_Character_Checker\\CharacterChecker\\CharacterChecker.csproj": {}
+    "C:\\Users\\Elliot\\Documents\\C#Projects\\File-checker\\CharacterChecker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elliot\\Documents\\C# Projects\\SWORD_Character_Checker\\CharacterChecker\\CharacterChecker.csproj": {
+    "C:\\Users\\Elliot\\Documents\\C#Projects\\File-checker\\CharacterChecker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elliot\\Documents\\C# Projects\\SWORD_Character_Checker\\CharacterChecker\\CharacterChecker.csproj",
+        "projectUniqueName": "C:\\Users\\Elliot\\Documents\\C#Projects\\File-checker\\CharacterChecker.csproj",
         "projectName": "CharacterChecker",
-        "projectPath": "C:\\Users\\Elliot\\Documents\\C# Projects\\SWORD_Character_Checker\\CharacterChecker\\CharacterChecker.csproj",
+        "projectPath": "C:\\Users\\Elliot\\Documents\\C#Projects\\File-checker\\CharacterChecker.csproj",
         "packagesPath": "C:\\Users\\Elliot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elliot\\Documents\\C# Projects\\SWORD_Character_Checker\\CharacterChecker\\obj\\",
+        "outputPath": "C:\\Users\\Elliot\\Documents\\C#Projects\\File-checker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elliot\\AppData\\Roaming\\NuGet\\NuGet.Config"

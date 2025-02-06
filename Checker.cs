@@ -5,15 +5,32 @@ namespace CharacterChecker;
 public class Checker
 {
     // Filepath to be read.
-    string filepath;
+    string[] filepath;
 
-    // Charcters to be read
+    // Characters to be read
     Dictionary<char, int> characters = new();
 
     // Constructer
-    public Checker(string path)
+    public Checker(string[] fp)
     {
-        filepath = path;
+        filepath = fp;
+    }
+
+    // formats the file path into a string and returns it
+    public string GetFilePath()
+    {
+        string path = filepath[0];
+
+        // if there are spaces in the filepath it will iterate through the arguments and append them to one
+        if (filepath.Length > 1)
+        {
+            for(int i = 1; i < filepath.Length; i++)
+            {
+                path = path+" "+filepath[i];
+            }
+        }
+   
+        return path;
     }
 
     // Stores all text from a given file into a string and returns it.
@@ -23,7 +40,7 @@ public class Checker
         try
         {
             // reads given file
-            StreamReader sr = new(filepath);
+            StreamReader sr = new(GetFilePath());
 
             // Gets first line of string in text file.
             string line = sr.ReadLine();
@@ -106,11 +123,11 @@ public class Checker
         int i = 10;
         foreach (KeyValuePair<char, int> kvp in sortedCharacters.Reverse())
         {
-            i--;
             if (i > 0)
             {
                 Console.WriteLine(kvp.Key + ": " + kvp.Value);
             }
+            i--;
         }
     }
 

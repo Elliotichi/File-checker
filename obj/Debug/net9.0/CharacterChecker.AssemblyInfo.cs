@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CharacterChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fdd3601941fe5093f95b6e984d3d8f818c02f0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CharacterChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CharacterChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
