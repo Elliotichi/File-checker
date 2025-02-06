@@ -1,0 +1,14 @@
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\bin\Debug\net9.0\CharacterChecker.exe
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\bin\Debug\net9.0\CharacterChecker.deps.json
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\bin\Debug\net9.0\CharacterChecker.runtimeconfig.json
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\bin\Debug\net9.0\CharacterChecker.dll
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\bin\Debug\net9.0\CharacterChecker.pdb
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\obj\Debug\net9.0\CharacterChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\obj\Debug\net9.0\CharacterChecker.AssemblyInfoInputs.cache
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\obj\Debug\net9.0\CharacterChecker.AssemblyInfo.cs
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\obj\Debug\net9.0\CharacterChecker.csproj.CoreCompileInputs.cache
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\obj\Debug\net9.0\CharacterChecker.dll
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\obj\Debug\net9.0\refint\CharacterChecker.dll
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\obj\Debug\net9.0\CharacterChecker.pdb
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\obj\Debug\net9.0\CharacterChecker.genruntimeconfig.cache
+C:\Users\Elliot\Documents\C# Projects\SWORD_Character_Checker\CharacterChecker\obj\Debug\net9.0\ref\CharacterChecker.dll
